@@ -1,5 +1,10 @@
 # 🌐 CloudNet - Dual VPC AWS Infrastructure
 
+**Author:** El Mahdi ARFAL  
+**Academic Year:** 2024/2025  
+**Institution:** Institut National des Postes et Télécommunications  
+
+
 ![Architecture Diagram](./architecture_diagram.png)
 
 A **Terraform** project that automates the deployment of a dual-VPC architecture on AWS, including peering, centralized storage, and monitoring features.
