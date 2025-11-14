@@ -1,4 +1,4 @@
-# 🌐 CloudNet - Dual VPC AWS Infrastructure
+# 🌐 Dual VPC AWS Infrastructure
 
 **Author:** El Mahdi ARFAL  
 **Academic Year:** 2024/2025  
