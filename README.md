@@ -42,8 +42,8 @@ Permissions to create:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/cloudnet-dual-vpc.git
-cd cloudnet-dual-vpc
+git clone https://github.com/elmahdiarfal/Dual-VPC-Cloud-Infrastructure.git
+cd Dual-VPC-Cloud-Infrastructure
 ```
 
 ### 2. Configure AWS credentials
