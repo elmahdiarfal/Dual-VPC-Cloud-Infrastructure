@@ -122,7 +122,7 @@ terraform destroy
 
 ## ⚠️ Important Notes
 
-- 💰 **Cost**: Running this infrastructure may incur **$50–100/month** in AWS charges.
+- 💰 **Cost**: Running this infrastructure may incur fees.
 - 🔐 **Security**: SSH is open to `0.0.0.0/0` by default. Update `variables.tf` for production use.
 - 🧹 **Customization**: Adjust CIDR ranges in `variables.tf` to avoid overlapping with other networks.
 
